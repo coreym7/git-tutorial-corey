@@ -1,0 +1,37 @@
+From 45ed86d2e57708cb0c4026d7c183a1fd9d15d5b8 Mon Sep 17 00:00:00 2001
+From: Corey Morris <cmorris3@missouriwestern.edu>
+Date: Wed, 20 Mar 2024 21:26:10 -0500
+Subject: [PATCH] Add bio page for Corey Morris
+
+---
+ about/corey-morris.html | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+ create mode 100644 about/corey-morris.html
+
+diff --git a/about/corey-morris.html b/about/corey-morris.html
+new file mode 100644
+index 0000000..5757ada
+--- /dev/null
++++ b/about/corey-morris.html
+@@ -0,0 +1,17 @@
++<!DOCTYPE html>
++<html lang="en">
++    <head>
++        <meta charset="utf-8"/>
++        <title>
++            Corey Morris's Bio Page
++        </title>
++    </head>
++    <body>
++        <h1>
++            Corey Morris - Bio Page
++        </h1>
++        <p>
++            This is a bio page for Corey Morris.
++        </p>
++    </body>
++</html>
+\ No newline at end of file
+-- 
+2.39.3
+
